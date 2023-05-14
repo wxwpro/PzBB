@@ -3,6 +3,10 @@ Serverless Telegram-платформа с открытым исходным ко
 
 [![Deploy](https://button.deta.dev/1/svg)](https://deta.space/discovery/r/1y1jp1dyqfkgq7kh)  
 
+
+[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/wxwpro/PzBB)
+
+
 [![Buy me a coffee](https://github.com/nnagibator228/PoizonBotPlatform/blob/main/da_button.png)](https://www.donationalerts.com/r/plzdontcry)
 
 # Быстрый запуск
