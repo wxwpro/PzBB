@@ -1,19 +1,3 @@
-# PoizonBotPlatform
-Serverless Telegram-платформа с открытым исходным кодом для тех, для тех, кто занимается доставкой товаров с маркетплейсов Китая.
-
-[![Deploy1](https://button.deta.dev/1/svg)](https://deta.dev/discovery?repo=https://github.com/wxwpro/PzBB)
-
-
-
-
-[![Deploy](https://button.deta.dev/1/svg)](https://deta.space/discovery/r/1y1jp1dyqfkgq7kh)  
-
-
-[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/wxwpro/PzBB)
-
-
-[![Buy me a coffee](https://github.com/nnagibator228/PoizonBotPlatform/blob/main/da_button.png)](https://www.donationalerts.com/r/plzdontcry)
-
 # Быстрый запуск
 ## Создание Telegram-Бота
 Прежде всего необходимо создать профиль бота, который будет использоваться для приема и обработки всех заявок
