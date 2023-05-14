@@ -1,7 +1,7 @@
 # PoizonBotPlatform
 Serverless Telegram-платформа с открытым исходным кодом для тех, для тех, кто занимается доставкой товаров с маркетплейсов Китая.
 
-[![Deploy1](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=your-repo-url)
+[![Deploy1](https://button.deta.dev/1/svg)](https://deta.dev/discovery?repo=https://github.com/wxwpro/PzBB)
 
 
 
